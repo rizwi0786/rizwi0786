@@ -187,17 +187,21 @@ I regularly practice Data Structures and Algorithms to improve my problem-solvin
 
 ---
 
+---
+
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rizwi0786&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwi0786&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rizwi0786&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rizwi0786&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwi0786&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+  <br/><br/>
+
+  <img width="70%" src="https://streak-stats.demolab.com?user=rizwi0786&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
 ---
 
 ## 🌐 Connect With Me
