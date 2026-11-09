@@ -189,19 +189,29 @@ I regularly practice Data Structures and Algorithms to improve my problem-solvin
 
 ---
 
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rizwi0786&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwi0786&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/rizwi0786">
+    <img src="https://img.shields.io/badge/GitHub-rizwi0786-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
 
   <br/><br/>
 
-  <img width="70%" src="https://streak-stats.demolab.com?user=rizwi0786&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/rizwi0786?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-2ea44f?style=for-the-badge&logo=github" alt="Explore Repositories" />
+  </a>
+
+  <br/><br/>
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=rizwi0786&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
+
+
 ---
 
 ## 🌐 Connect With Me
